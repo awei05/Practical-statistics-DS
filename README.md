@@ -1,6 +1,3 @@
-####  Practical Statistics for Data Scientist
-
-
 
 # Practical Statistics for Data Scientists in PYTHON
 
