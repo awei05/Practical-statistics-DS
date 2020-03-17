@@ -1,5 +1,5 @@
 
-# Practical Statistics for Data Scientists in PYTHON
+# Practical Statistics for Data Scientists
 
 
 ## The Data Source
